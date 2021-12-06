@@ -20255,7 +20255,7 @@ var Projects = function (_React$Component) {
 				_react2.default.createElement(
 					'div',
 					{ className: 'typeANumber' },
-					'just type a number between 1 and 9 to switch through my projects'
+					'Just type a number between 1 and 9 to switch through my projects'
 				),
 				_react2.default.createElement(
 					'div',
